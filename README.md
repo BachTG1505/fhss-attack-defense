@@ -27,7 +27,7 @@ Người học sẽ trực tiếp:
 ## Tải về và chạy
 
 ```bash
-imodule https://github.com/BachTG1505/fhss-attack-defense/raw/main/fhss-attack-defense.tar
+imodule https://github.com/BachTG1505/fhss-attack-defense/raw/main/fhss-attack-defense-v2.tar
 
 cd ~/labtainer/trunk/scripts/labtainer-student
 
